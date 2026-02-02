@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Soumya Parida</h1>
-<h3 align="center">Engineering Student | C/C++ | Python | Systems & OS Enthusiast</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Soumya+Parida;Engineering+Student;C+%7C+Python+%7C+Linux;OS+%26+Systems+Programming;Always+Learning+%26+Building+🚀" />
+</p>
 
 ---
 
@@ -39,6 +40,6 @@
 ---
 
 ### 🌐 Connect With Me
-- 💼 LinkedIn: `your-link`
-- 🎬 YouTube: `your-channel`
-- 📧 Email: `your-email`
+- 💼 LinkedIn: your-link
+- 🎬 YouTube: your-channel
+- 📧 Email: your-email
