@@ -19,7 +19,7 @@
 ---
 
 ### 📌 Featured Projects
-- 🔹 **Concurrent File Analyzer (C)** – multiprocess file stats with signals  
+- 🔹 **Network Routing Optimizer**
 - 🔹 **Mail Merge System (C)** – CSV parsing, templates, SMTP  
 - 🔹 **JARVIS Voice Assistant (Python)** – APIs, automation, GPT  
 
